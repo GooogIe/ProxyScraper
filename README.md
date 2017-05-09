@@ -9,6 +9,9 @@ This is a python script that allow you to:
 * Scrape proxies from a list of websites containing proxies.
 * Saving them runtime.
 
+* Note: Proxies quality depends only from the sources you provide.
+* You may want to check them with my [ProxyChecker](https://github.com/GooogIe/ProxyChecker)
+
 ***
 
 # Requirements #
@@ -29,3 +32,4 @@ You can find me on:
 
 * [Holeboards](www.holeboards.eu)
 * [Telegram](www.telegram.me/eigoog)
+
