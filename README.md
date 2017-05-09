@@ -19,8 +19,9 @@ This is a python script that allow you to:
 
 * Open terminal and move to the directory where you saved it.
 * Type ' python scraper.py <SCRAPEDPROXIES.txt> [-t threads] [-l leechlist] [-s sort] '.
-
-* Max 100 threads.
+* -t NUM THREADS, specifies the number of threads to use(optional).
+* -l FILE.txt, specifies the file to load websites to leech from(optional, will look for sites.txt instead).
+* -s, specifies to filter leeched proxies(optional).
 
 # More #
 
